@@ -1,6 +1,4 @@
-Here’s a sample `README.md` for an MLOps basic repository that contains applications, installation instructions, running on different platforms (Jupyter Notebook, Google Colab, Python), functionalities, and DagsHub integration.
 
----
 
 # MLOps Basic Repository
 
